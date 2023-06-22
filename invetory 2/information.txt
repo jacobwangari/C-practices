@@ -1,0 +1,5 @@
+EmpID Name HoursWk RateofPay
+1011 Jane Smith 25 55.75
+1012 Jean Smith 45 44.50
+1013 Jim Smith 35 49.66
+1014 John Smith 40 52.55

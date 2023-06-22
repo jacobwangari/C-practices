@@ -1,0 +1,8 @@
+E:\programming\c++\object_oriented\object_oriented\bin\Debug\object_oriented.exe.config
+E:\programming\c++\object_oriented\object_oriented\bin\Debug\object_oriented.exe
+E:\programming\c++\object_oriented\object_oriented\bin\Debug\object_oriented.pdb
+E:\programming\c++\object_oriented\object_oriented\obj\Debug\object_oriented.csproj.AssemblyReference.cache
+E:\programming\c++\object_oriented\object_oriented\obj\Debug\object_oriented.csproj.SuggestedBindingRedirects.cache
+E:\programming\c++\object_oriented\object_oriented\obj\Debug\object_oriented.csproj.CoreCompileInputs.cache
+E:\programming\c++\object_oriented\object_oriented\obj\Debug\object_oriented.exe
+E:\programming\c++\object_oriented\object_oriented\obj\Debug\object_oriented.pdb

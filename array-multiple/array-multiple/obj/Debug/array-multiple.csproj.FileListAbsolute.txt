@@ -1,0 +1,8 @@
+E:\programming\c++\array-multiple\array-multiple\bin\Debug\array-multiple.exe.config
+E:\programming\c++\array-multiple\array-multiple\bin\Debug\array-multiple.exe
+E:\programming\c++\array-multiple\array-multiple\bin\Debug\array-multiple.pdb
+E:\programming\c++\array-multiple\array-multiple\obj\Debug\array-multiple.csproj.AssemblyReference.cache
+E:\programming\c++\array-multiple\array-multiple\obj\Debug\array-multiple.csproj.SuggestedBindingRedirects.cache
+E:\programming\c++\array-multiple\array-multiple\obj\Debug\array-multiple.csproj.CoreCompileInputs.cache
+E:\programming\c++\array-multiple\array-multiple\obj\Debug\array-multiple.exe
+E:\programming\c++\array-multiple\array-multiple\obj\Debug\array-multiple.pdb

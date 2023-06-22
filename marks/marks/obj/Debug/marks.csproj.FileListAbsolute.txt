@@ -1,0 +1,8 @@
+E:\programming\c++\marks\marks\bin\Debug\marks.exe.config
+E:\programming\c++\marks\marks\bin\Debug\marks.exe
+E:\programming\c++\marks\marks\bin\Debug\marks.pdb
+E:\programming\c++\marks\marks\obj\Debug\marks.csproj.AssemblyReference.cache
+E:\programming\c++\marks\marks\obj\Debug\marks.csproj.SuggestedBindingRedirects.cache
+E:\programming\c++\marks\marks\obj\Debug\marks.csproj.CoreCompileInputs.cache
+E:\programming\c++\marks\marks\obj\Debug\marks.exe
+E:\programming\c++\marks\marks\obj\Debug\marks.pdb

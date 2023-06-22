@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634296456 source:e:\programming\c++\cosine_infinite\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

@@ -1,0 +1,3 @@
+﻿  openglone.cpp
+D:\programming\c++\openglone\openglone\openglone.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  openglone.vcxproj -> D:\programming\c++\openglone\Debug\openglone.exe

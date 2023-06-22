@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642565818 source:e:\programming\c++\invetory\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+

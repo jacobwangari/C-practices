@@ -1,0 +1,8 @@
+E:\programming\c++\cosine\cosine\bin\Debug\cosine.exe.config
+E:\programming\c++\cosine\cosine\bin\Debug\cosine.exe
+E:\programming\c++\cosine\cosine\bin\Debug\cosine.pdb
+E:\programming\c++\cosine\cosine\obj\Debug\cosine.csproj.AssemblyReference.cache
+E:\programming\c++\cosine\cosine\obj\Debug\cosine.csproj.SuggestedBindingRedirects.cache
+E:\programming\c++\cosine\cosine\obj\Debug\cosine.csproj.CoreCompileInputs.cache
+E:\programming\c++\cosine\cosine\obj\Debug\cosine.exe
+E:\programming\c++\cosine\cosine\obj\Debug\cosine.pdb

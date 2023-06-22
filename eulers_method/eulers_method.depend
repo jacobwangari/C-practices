@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634293768 source:e:\programming\c++\eulers_method\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

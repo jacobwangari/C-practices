@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643059494 source:e:\programming\c++\invetory 2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

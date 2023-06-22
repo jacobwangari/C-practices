@@ -1,0 +1,8 @@
+E:\programming\c++\exam_prep\exam_prep\bin\Debug\exam_prep.exe.config
+E:\programming\c++\exam_prep\exam_prep\bin\Debug\exam_prep.exe
+E:\programming\c++\exam_prep\exam_prep\bin\Debug\exam_prep.pdb
+E:\programming\c++\exam_prep\exam_prep\obj\Debug\exam_prep.csproj.AssemblyReference.cache
+E:\programming\c++\exam_prep\exam_prep\obj\Debug\exam_prep.csproj.SuggestedBindingRedirects.cache
+E:\programming\c++\exam_prep\exam_prep\obj\Debug\exam_prep.csproj.CoreCompileInputs.cache
+E:\programming\c++\exam_prep\exam_prep\obj\Debug\exam_prep.exe
+E:\programming\c++\exam_prep\exam_prep\obj\Debug\exam_prep.pdb

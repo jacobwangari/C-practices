@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634305789 source:e:\programming\c++\alphabets_patterns\main.cpp
+	<iostream>
+	<conio.h>
+

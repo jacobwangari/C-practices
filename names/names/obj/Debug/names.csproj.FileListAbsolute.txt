@@ -1,0 +1,8 @@
+E:\programming\c++\names\names\bin\Debug\names.exe.config
+E:\programming\c++\names\names\bin\Debug\names.exe
+E:\programming\c++\names\names\bin\Debug\names.pdb
+E:\programming\c++\names\names\obj\Debug\names.csproj.AssemblyReference.cache
+E:\programming\c++\names\names\obj\Debug\names.csproj.SuggestedBindingRedirects.cache
+E:\programming\c++\names\names\obj\Debug\names.csproj.CoreCompileInputs.cache
+E:\programming\c++\names\names\obj\Debug\names.exe
+E:\programming\c++\names\names\obj\Debug\names.pdb

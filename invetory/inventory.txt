@@ -1,0 +1,6 @@
+ItemID Name Qty priceEach
+1011 Coffee-Mug 100 4.50
+1012 T-Shirt 150 8.75
+1013 Key-Chain 200 1.15
+1014 Card-Holder 80 7.75
+1015 Phone-Case 155 6.50

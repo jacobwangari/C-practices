@@ -1,0 +1,8 @@
+E:\programming\c++\inheritance_oop\inheritance_oop\bin\Debug\inheritance_oop.exe.config
+E:\programming\c++\inheritance_oop\inheritance_oop\bin\Debug\inheritance_oop.exe
+E:\programming\c++\inheritance_oop\inheritance_oop\bin\Debug\inheritance_oop.pdb
+E:\programming\c++\inheritance_oop\inheritance_oop\obj\Debug\inheritance_oop.csproj.AssemblyReference.cache
+E:\programming\c++\inheritance_oop\inheritance_oop\obj\Debug\inheritance_oop.csproj.SuggestedBindingRedirects.cache
+E:\programming\c++\inheritance_oop\inheritance_oop\obj\Debug\inheritance_oop.csproj.CoreCompileInputs.cache
+E:\programming\c++\inheritance_oop\inheritance_oop\obj\Debug\inheritance_oop.exe
+E:\programming\c++\inheritance_oop\inheritance_oop\obj\Debug\inheritance_oop.pdb
